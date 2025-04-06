@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "title": "第15表　月・市町村別死産数",
+    "description": "第15表　月・市町村別死産数",
+    "category": "保健衛生統計",
+    "source": {
+      "url": "https://www.pref.nara.jp/secure/319985/r5-15.xls",
+      "name": "r5-15.xls"
+    },
+    "license": {
+      "type": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "licensor": "地域医療連携課",
+      "issued": "2023-01-01T00:00:00+09:00"
+    },
+    "contact": {
+      "organization": "奈良県",
+      "department": "地域医療連携課",
+      "tel": "0742-27-8653"
+    },
+    "created": "2025-04-01T00:00:00+09:00",
+    "format": "Excel",
+    "fileSize": "48KB",
+    "updated": "2025-04-01T00:00:00+09:00"
+  }
+}

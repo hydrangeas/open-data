@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "title": "第9表　死因・生存期間別死亡数",
+    "description": "第9表　死因・生存期間別死亡数",
+    "category": "保健衛生統計",
+    "source": {
+      "url": "https://www.pref.nara.jp/secure/319985/r5-9.xls",
+      "name": "r5-9.xls"
+    },
+    "license": {
+      "type": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "licensor": "地域医療連携課",
+      "issued": "2023-01-01T00:00:00+09:00"
+    },
+    "contact": {
+      "organization": "奈良県",
+      "department": "地域医療連携課",
+      "tel": "0742-27-8653"
+    },
+    "created": "2025-04-01T00:00:00+09:00",
+    "format": "Excel",
+    "fileSize": "123KB",
+    "updated": "2025-04-01T00:00:00+09:00"
+  }
+}
